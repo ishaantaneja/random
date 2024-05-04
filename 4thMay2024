@@ -1,3 +1,8 @@
 -+/
 
 reating port using Tailwind, Shadcn, Radix+-/
+
+
+Concurrent programming vs Parallel Programming
+
+In concurrent programming, different tasks are called thread, which can execute together, interact with each other too. While parallel programming is a concept in which differnt tasks run on different processing units to improve efficiency.
